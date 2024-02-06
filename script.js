@@ -1,13 +1,13 @@
 // Data for the products available; in the form of a dictionary array
 const products = [
-    { id: 1, name: 'Apple', category: 'Fruits', image: 'images/apples.jpeg', description: 'Quantity: 1kg, Banarasi Fresh, Organinc, Farm Grown', price: 150 },
-    { id: 2, name: 'Potato', category: 'Vegetables', image: 'images/potato.jpeg', description: 'Quantity: 1kg, Italian Poatato, Organic, Farm Grown', price: 100 },
-    { id: 3, name: 'Strawberry', category: 'Fruits', image: 'images/strawberry.jpeg', description: 'Quantity: 500g, Kashmiri Red Strawberry, Organic', price: 125 },
-    { id: 4, name: 'Tomato', category: 'Vegetables', image: 'images/tomato.jpeg', description: 'Quantity: 1kg, Fresh Desi Organic Tomato', price: 100 },
-    { id: 5, name: 'Butter', category: 'Dairy', image: 'images/butter.jpeg', description: 'Quantity: 500g, Pasturized Unsalted Fresh Organic Butter', price: 75 },
-    { id: 6, name: 'Cow Milk', category: 'Dairy', image: 'images/milk2.jpeg', description: 'Quantity: 500mL, Organic Fresh Full Cream Cow Milk (Bottle)', price: 50 },
-    { id: 7, name: 'Litchi', category: 'Fruits', image: 'images/litchi.jpeg', description: 'Quantity: 500g , Organic Fresh Farm Grown', price: 125 },
-    { id: 8, name: 'Paneer', category: 'Dairy', image: 'images/paneer.jpeg', description: 'Quantity: 200g, Cow Milk Fresh Block Paneer', price: 75 },
+    { id: 1, name: 'Apple', category: 'Fruits', image: 'apples.jpeg', description: 'Quantity: 1kg, Banarasi Fresh, Organinc, Farm Grown', price: 150 },
+    { id: 2, name: 'Potato', category: 'Vegetables', image: 'potato.jpeg', description: 'Quantity: 1kg, Italian Poatato, Organic, Farm Grown', price: 100 },
+    { id: 3, name: 'Strawberry', category: 'Fruits', image: 'strawberry.jpeg', description: 'Quantity: 500g, Kashmiri Red Strawberry, Organic', price: 125 },
+    { id: 4, name: 'Tomato', category: 'Vegetables', image: 'tomato.jpeg', description: 'Quantity: 1kg, Fresh Desi Organic Tomato', price: 100 },
+    { id: 5, name: 'Butter', category: 'Dairy', image: 'butter.jpeg', description: 'Quantity: 500g, Pasturized Unsalted Fresh Organic Butter', price: 75 },
+    { id: 6, name: 'Cow Milk', category: 'Dairy', image: 'milk2.jpeg', description: 'Quantity: 500mL, Organic Fresh Full Cream Cow Milk (Bottle)', price: 50 },
+    { id: 7, name: 'Litchi', category: 'Fruits', image: 'litchi.jpeg', description: 'Quantity: 500g , Organic Fresh Farm Grown', price: 125 },
+    { id: 8, name: 'Paneer', category: 'Dairy', image: 'paneer.jpeg', description: 'Quantity: 200g, Cow Milk Fresh Block Paneer', price: 75 },
     
 ];
 
